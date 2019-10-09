@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-08-28"
+lastupdated: "2019-10-09"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -38,7 +38,7 @@ By default, users in an account don't have access to create, update, search, or 
 Complete the following steps to create a support case from the Support Center: 
 
   1. Click **Support** from the console menu bar.
-  2. Create a case by clicking **Create case** from the **Need more help** menu or by clicking **Manage cases > Create a new case**.
+  2. Create a case by clicking **Create case** from the **Need more help** menu or by clicking **Manage cases** > **Create a new case**.
   3. Select **Technical**, **Account & Access**, **Billing & Invoice**, or **Sales Inquiry** depending on your issue.
   4. Next, choose the severity of your case from the menu. The severity determines how your case is handled. For more information on case severity, see [Escalating support cases](/docs/get-support?topic=get-support-escalation#escalation).
   5. Select the category and offering of your case. The information that is required depends on the resource context that you selected and also on the type of support plan of your account.
