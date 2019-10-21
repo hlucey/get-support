@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-10-08"
+lastupdated: "2019-10-21"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -22,7 +22,7 @@ subcollection: get-support
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# FAQs
+# FAQs for getting support
 {: #get-supportfaq}
 
 ## How do I check for planned maintenance?
